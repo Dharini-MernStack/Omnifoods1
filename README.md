@@ -19,24 +19,30 @@ Here are some screenshots of the project to give you an idea of its features and
 
 ###### Home Page
 
-![Home Page](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/carousal.jpg)
+![Home Page](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/homepage.jpg)
 
-###### Select Product Page
+###### Vision
 
-![Select Products](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/product%20page.jpg)
+![Organisation vision](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/page2.jpg)
 
-###### User Review on product
+###### Getting started
 
-![User review](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/review.jpg)
+![Usage](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/page3.jpg)
 
-###### User Sign in & Sign Up
+###### Locations of Delivery
 
-![User Sign in and Registration](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/signin.jpg)
+![Locations of Delivery](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/page4.jpg)
 
-###### Admin User 
+###### Testimonials
 
-![Admin viewing orders](https://github.com/Dharini-MernStack/Proshop---final/blob/a7303f4d0ec449b65c2fea040462a79d5fe63c4d/frontend/public/images/admin%20order.jpg)
+![Testimonials](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/page5.jpg)
 
+###### Testimonials
+
+![Packages](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/page6.jpg)
+
+###### Footer
+![Footer](https://github.com/Dharini-MernStack/Omnifoods1/blob/d49dd3bb728fd17f349da3d425efed6ff41985af/resources/last%20page.jpg)
 ## Getting Started
 
 1. Clone this repository to your local machine
